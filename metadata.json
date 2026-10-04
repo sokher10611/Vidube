@@ -1,0 +1,6 @@
+{
+  "name": "VidWave",
+  "description": "A dynamic social video platform for streaming videos and shorts, subscribing to creators, liking, and commenting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
